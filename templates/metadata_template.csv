@@ -1,0 +1,2 @@
+item_id,item_name,item_type,summary,tags,description,credits,terms_of_use
+0123456789abcdef0123456789abcdef,Street Trees,Feature Service,Inventory of city-maintained street trees.,"trees, urban forestry, inventory","<p>Point locations and attributes of street trees, updated monthly.</p>",City GIS Team,"<p>For internal use only.</p>"
